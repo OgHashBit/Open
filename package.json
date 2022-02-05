@@ -8,6 +8,9 @@
     "refraction",
     "scroll",
     "gltf"
+    "useframe",
+    "useaspect",
+    "drei"
   ],
   "main": "src/index.js",
   "dependencies": {
